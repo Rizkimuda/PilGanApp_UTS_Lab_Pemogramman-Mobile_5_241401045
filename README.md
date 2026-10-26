@@ -42,15 +42,3 @@ PilGan adalah aplikasi kuis interaktif berbasis Flutter. Pengguna dapat memasukk
 
 
 
-
-
-
-
-
----
-
-## Cara Menjalankan Aplikasi
-
-```bash
-flutter pub get
-flutter run
