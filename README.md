@@ -39,6 +39,9 @@ PilGan adalah aplikasi kuis interaktif berbasis Flutter. Pengguna dapat memasukk
 - **Gambar**: Aset logo kuis (`quiz_hero.png`) dan piala (`quiz_trophy.png`) di folder `assets/images/`.
 - **Ikon**: Material Icons bawaan Flutter.
 
+### Screenshot Aplikasi
+- **Link**: https://drive.google.com/drive/folders/13WgaY-QNQdGv6_zKcT5JNW2wRkKjdz0K?usp=sharing
+
 
 
 
