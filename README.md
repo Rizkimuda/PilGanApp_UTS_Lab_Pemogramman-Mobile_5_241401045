@@ -42,6 +42,8 @@ PilGan adalah aplikasi kuis interaktif berbasis Flutter. Pengguna dapat memasukk
 ### Screenshot Aplikasi
 - **Link**: https://drive.google.com/drive/folders/13WgaY-QNQdGv6_zKcT5JNW2wRkKjdz0K?usp=sharing
 
+### Mockup Aplikasi
+- **Link**: https://www.figma.com/design/4JvoteWv3bU4XAouRw2wgl/PilGan?node-id=1-3&t=YzvXrkz8QRc8IGJL-1
 
 
 
